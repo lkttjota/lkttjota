@@ -5,6 +5,7 @@ I started coding back in the beginning of 2024 📅
 I am currently learning:
 - Python 🐍
 - Java ☕
+
 I am currently working on: Yuzzi - A bot for Discord 🤖
 
 I hope to learn more and more... And hopefully impress you! :D
